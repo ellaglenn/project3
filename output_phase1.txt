@@ -1,0 +1,6 @@
+*** Summarized Statistics ***
+The orderly sorted list of 17 values is:
+-93 -23.66 -3.5 -1 0.13 1.2294 2 3.14 4.17 4.46 74.4 82.33 89.999 90.12 90.12 90.12 90.43 
+The mean is 29.4993
+The median is 4.17
+The mode is 90.12
