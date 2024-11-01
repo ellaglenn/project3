@@ -1,11 +1,6 @@
 *** Summarized Statistics ***
-The orderly sorted list of 11 values is:
-89.999 -23.66 74.4 4.46 -3.5 -93 90.12 4.17 0.13 3.14 90.12 
-The mean is 21.4890
-The median is 4.1700
-The mode is 90.1200
-The chronologically sorted list of 11 values is:
-89.9990 -23.6600 74.4000 4.4600 -3.5000 -93.0000 90.1200 4.1700 0.1300 3.1400 90.1200 
-The mean is 21.4890
-The median is 4.1700
-The mode is 90.1200
+The orderly sorted list of 10 values is:
+-23.66 -12.34 -5.67 0.13 3.14 4.17 7.89 8.45 65.23 90.12 
+The mean is 13.746
+The median is 3.655
+The mode is -23.66
